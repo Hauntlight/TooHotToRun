@@ -13,3 +13,7 @@
 - Attenzione però, se bob si ferma esploderà!
 
 ## GOOD LUCK! HAVE FUN!
+
+
+[Scarica qui L'installer](https://drive.google.com/file/d/13AttL1DyQx1ofJKj6lbbEqSWRlzjXR0-/view?usp=sharing)
+## PER RICHIEDERE IL CODICE CONTATTARE IL PROPRIETARIO DEL REPOSITORY
