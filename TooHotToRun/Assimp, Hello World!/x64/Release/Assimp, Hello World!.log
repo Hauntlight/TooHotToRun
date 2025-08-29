@@ -1,0 +1,86 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: la directory intermedia (x64\Release\) contiene file condivisi da un altro progetto (Assimp, Hello World!.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  glad.c
+  main.cpp
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\shader_m.h(56,36): warning C4101: 'e': variabile locale senza riferimenti
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\mesh.h(84,46): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(44,52): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(44,47): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(44,87): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(44,82): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(51,34): warning C4244: '+=': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(52,42): warning C4244: '+=': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(53,37): warning C4244: '-=': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(57,59): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(57,54): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(58,54): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(58,49): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(60,44): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(60,39): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(61,57): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(61,53): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(112,55): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(112,49): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(114,30): warning C4244: '+=': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\effects.h(115,35): warning C4244: '-=': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\player.h(64,53): warning C4244: '+=': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(37,14): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(46,14): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(47,18): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(48,20): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(50,18): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(51,17): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(69,73): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(82,30): warning C4018: '<': errata corrispondenza tra signed e unsigned
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(154,14): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(163,14): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(164,18): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(165,20): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(167,18): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(168,17): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(188,73): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(202,30): warning C4018: '<': errata corrispondenza tra signed e unsigned
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(433,12): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(434,16): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(435,17): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(462,73): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\istanziatore.h(475,30): warning C4018: '<': errata corrispondenza tra signed e unsigned
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\gestoreLuci.h(99,68): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\main.cpp(163,24): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\main.cpp(257,13): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\main.cpp(258,13): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\main.cpp(262,17): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\main.cpp(263,17): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\main.cpp(265,11): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\main.cpp(266,11): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+LINK : warning LNK4098: la libreria predefinita 'LIBCMT' è in conflitto con l'utilizzo di altre librerie; usare /NODEFAULTLIB:libreria
+  Generazione codice in corso...
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\main.cpp(227): warning C4715: 'processInputGame': non tutti i percorsi di controllo restituiscono un valore
+D:\Programming\Grafica Avanzata\TooHotToRun\Assimp, Hello World!\renderText.h(132): warning C4715: 'initRenderText': non tutti i percorsi di controllo restituiscono un valore
+  All 1151 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+freetype.lib(ftbase.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(ftbase.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(ftinit.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(ftinit.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(ftsystem.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(ftsystem.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(autofit.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(autofit.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(truetype.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(truetype.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(type1.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(type1.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(cff.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(cff.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(type1cid.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(type1cid.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(pfr.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(pfr.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(type42.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(type42.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(winfnt.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(winfnt.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(pcf.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(pcf.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(psaux.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(psaux.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(psmodule.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(psmodule.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(pshinter.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(pshinter.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(raster.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(raster.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(sfnt.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(sfnt.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(smooth.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(smooth.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(bdf.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(bdf.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(ftgzip.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(ftgzip.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(ftlzw.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(ftlzw.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(ftbitmap.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(ftbitmap.obj)' o in ''; oggetto collegato senza informazioni di debug
+freetype.lib(ftdebug.obj) : warning LNK4099: impossibile trovare il PDB '' con 'freetype.lib(ftdebug.obj)' o in ''; oggetto collegato senza informazioni di debug
+  Assimp, Hello World!.vcxproj -> D:\Programming\Grafica Avanzata\TooHotToRun\x64\Release\TooHotToRun.exe
+          1 file copiati.

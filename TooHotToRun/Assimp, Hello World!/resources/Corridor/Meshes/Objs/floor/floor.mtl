@@ -1,0 +1,7 @@
+# Blender 3.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl texture_material
+Kd 1.000000 1.000000 1.000000
+map_Kd  FloorCenter_Base_Color.png
+map_Bump  -bm 1.000000 FloorCenter_Normal.png

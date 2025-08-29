@@ -1,0 +1,6 @@
+# Blender 3.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Tripod_Light
+Kd 1.000000 1.000000 1.000000
+map_Kd Tripod_Light_albedo.jpg

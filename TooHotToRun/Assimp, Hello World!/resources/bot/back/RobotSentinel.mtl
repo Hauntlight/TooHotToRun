@@ -1,0 +1,30 @@
+# Blender MTL File: 'RobotSentinel.blend'
+# Material Count: 2
+
+newmtl TankBot.000
+Ns 510.036893
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\\TankBot - Diffuse2.jpg
+map_Bump textures\\TankBot - Normal.jpg
+map_Ke textures\\TankBot - Emit.jpg
+map_Ks textures\\TankBot - Spec.jpg
+
+newmtl TankBot.000_TankBot_-_Normal
+Ns 510.036893
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\\TankBot - Normal.jpg
+map_Bump textures\\TankBot - Normal.jpg
+map_Ke textures\\TankBot - Emit.jpg
+map_Ks textures\\TankBot - Spec.jpg

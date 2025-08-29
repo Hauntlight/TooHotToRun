@@ -1,0 +1,4 @@
+﻿  Assimp, Hello World!.vcxproj -> D:\Programming\Grafica Avanzata\Progetto Finale\x64\Debug\Assimp, Hello World!.exe
+  Impossibile trovare il file specificato.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: uscita dal comando "copy /Y "D:\Programming\Grafica Avanzata\Progetto Finale\Assimp, Hello World!\x64\debug\assimp-vc142-mtd.dll" "D:\Programming\Grafica Avanzata\Progetto Finale\x64\Debug\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: :VCEnd" con codice 1.
